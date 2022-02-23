@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require "xcresults_to_junit/loader"
+XCresultsToJunit::Loader.say
+
+
+
+
+# print File.expand_path("../lib/xcresults_to_junit.rb", __dir__)
